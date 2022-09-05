@@ -1,0 +1,3 @@
+[submodule "linkstaff-recruitment"]
+	path = linkstaff-recruitment
+	url = https://github.com/rmShoeb/linkstaff-recruitment.git
