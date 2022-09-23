@@ -1,33 +1,38 @@
+leetcode problems
+=====================================
 [x] 9. Palindrome Number
 [x] 20. Valid Parentheses
 [x] 58. Length of Last Word
-[]  88. Merge Sorted Array
-[]  151. Reverse Words in a String
+[x] 88. Merge Sorted Array
+[x] 151. Reverse Words in a String
 [x] 189. Rotate Array
 [x] 204. Count Primes
 [x] 242. Valid Anagram
 [x] 283. Move Zeroes
-[]  344. Reverse String
-[] 387. First Unique Character in a String
-[]  442. Find All Duplicates in an Array
+[x] 344. Reverse String
+[x] 387. First Unique Character in a String
+[x] 442. Find All Duplicates in an Array
 [x] 509. Fibonacci Number
 [x] 771. Jewels and Stones
 [x] 989. Add to Array-Form of Integer
-[]  1047. Remove All Adjacent Duplicates In String
+[x] 1047. Remove All Adjacent Duplicates In String
 [x] 1108. Defanging an IP Address
-[]  1143. Longest Common Subsequence
+[x] 1143. Longest Common Subsequence
 [x] 1491. Average Salary Excluding the Minimum and Maximum Salary
 [x] 1832. Check if the Sentence Is Pangram
-[]  2047. Number of Valid Words in a Sentence
+[] 2047. Number of Valid Words in a Sentence
+
+others
+=====================================
 [x] Find the number of words in a string, number of letters of the last/first word in the string.
 [x] print 1,2,3 ... 10, 9, 8 ...1 with a single for loop.
 [x] print a sequence using one loop: 10 9 8 7 6 5 4 3 2 1 3 4 5 6 7 8 9 10
 [x] Number of words in a string
 [x] Reverse an array reverse(arr, arr + n)
 [x] print multiples of 3 from 200/in reverse order
-- []  Remove fourth character of a string
+[] Remove fourth character of a string
 [x] Write code of 1st 100 Prime number series
 [x] find highest and second highest number from the array using only one loop
-- []  Find most frequent and 2nd most frequent small letter from a given string
-- []  find the most frequent character and the second most frequent character
-- []  maximum number of small characters in a string
+[] Find most frequent and 2nd most frequent small letter from a given string
+[] find the most frequent character and the second most frequent character
+[] maximum number of small characters in a string
