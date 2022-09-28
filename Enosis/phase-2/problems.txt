@@ -1,0 +1,19 @@
+Data structures:
+=======================
+String builder
+Stack
+Dictionary
+KeyValuePair
+List
+
+Problems:
+=======================
+String Break:
+	- https://www.faqcode4u.com/faq/238862/best-way-to-split-string-into-lines-with-maximum-length-without-breaking-words
+Expression tree of postfix notation:
+	- https://www.techiedelight.com/expression-tree/
+Pascal Triangle:
+	- http://www.csharphelper.com/howtos/howto_pascals_triangle2.html
+Remove All Adjacent Duplicates In String with @
+Valid Parentheses
+	- Leetcode 20
